@@ -1,6 +1,7 @@
 # image
 
-<image src="image.png" />
+<image src="img1.jpg" />
+<image src="img2.jpg" />
 
 
 # Welcome to your Expo app 👋
